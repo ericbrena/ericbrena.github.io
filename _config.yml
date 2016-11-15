@@ -1,0 +1,14 @@
+# Site settings
+title: Eric Brenander
+email: eb223fz@student.lnu.se
+description: > # this means to ignore newlines until "baseurl:"
+  Project that publishes schoolmaterial for grading purposes.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:  ericbrena
+blog: Blog
+newurl: blog.html
+
+# Build settings
+markdown: kramdown
