@@ -98,7 +98,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -203,6 +203,16 @@ pre {
     }
 }
 
-.firstcommentleft {float: left}
+.slothright {margin-left: 10px; position: relative;}
 
-.slothRight {float: right}
+.post1 {padding: 20px;}
+
+.post1 img {float:right; max-width: 200px;}
+
+.post2 {padding: 20px; margin-bottom: 10px;}
+
+.post2 img {float:left; max-width: 200px; margin-right: 10px; position: relative;}
+
+.post3 {padding: 20px;}
+
+.post2 h3 {margin-top: 15px;}
