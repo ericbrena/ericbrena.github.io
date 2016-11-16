@@ -3,9 +3,7 @@
 
 Your title: Eric Brenander
 
-Site: kalle.123@hotmail.com
-
-Twitter: kallekapten
+contact: kalle.123@hotmail.com
 
 Location: Oskarshamn, Sverige
 
@@ -14,17 +12,15 @@ Location: Oskarshamn, Sverige
 
 /* THANKS */
 
-Name: David Awesome,
+Name: David Awesome, https://disqus.com/
 
                         [...]
 
 
 /* SITE */
 
-Last update: YYYY/MM/DD
+Last update: 2016/11/16
 
-Standards: HTML5, CSS3,..
+Standards: HTML5, CSS3, js, sass
 
-Components: Modernizr, jQuery, etc.
-
-Software: Software used for the development
+Software: webstorm
