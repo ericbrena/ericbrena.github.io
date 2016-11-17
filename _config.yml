@@ -3,8 +3,8 @@ title: Eric Brenander
 email: eb223fz@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   Site that publishes schoolprojects for grading purposes.
-baseurl: /blogg/
-url: http://ericbrena.github.io
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:  ericbrena
 blog: Blog
