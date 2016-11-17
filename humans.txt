@@ -12,7 +12,7 @@ Location: Oskarshamn, Sverige
 
 /* THANKS */
 
-Name: David Awesome, https://disqus.com/
+Name: https://disqus.com/
 
                         [...]
 
